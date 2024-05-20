@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"dev.melodies.Reptopia"
+			"dev.melodies.reptopia.Reptopia"
 		],
 		"client": [
-			"dev.melodies.ReptopiaClient"
+			"dev.melodies.reptopia.ReptopiaClient"
 		],
 		"fabric-datagen": [
-			"dev.melodies.ReptopiaDataGenerator"
+			"dev.melodies.reptopia.ReptopiaDataGenerator"
 		]
 	},
 	"mixins": [

@@ -1,4 +1,4 @@
-package dev.melodies;
+package dev.melodies.reptopia;
 
 import net.fabricmc.api.ClientModInitializer;
 

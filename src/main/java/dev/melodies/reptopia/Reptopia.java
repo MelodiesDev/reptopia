@@ -1,5 +1,6 @@
-package dev.melodies;
+package dev.melodies.reptopia;
 
+import dev.melodies.reptopia.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,6 +12,7 @@ public class Reptopia implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItems.registerModItems();
 
 
 		LOGGER.info("Hello Fabric world!");
