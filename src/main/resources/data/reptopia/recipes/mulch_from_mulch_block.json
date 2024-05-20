@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reptopia:mulch_block"
+    }
+  ],
+  "result": {
+    "item": "reptopia:mulch",
+    "count": 9
+  }
+}

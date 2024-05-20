@@ -1,0 +1,6 @@
+{
+  "parent": "reptopia:block/mulch_block",
+  "textures": {
+    "all": "reptopia:block/mulch_block"
+  }
+}

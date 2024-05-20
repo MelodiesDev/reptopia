@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "reptopia:item/hormworm"
+    "layer0": "reptopia:item/mortar_and_pestle"
   }
 }

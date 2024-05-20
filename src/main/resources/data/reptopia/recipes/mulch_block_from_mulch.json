@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "MMM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "reptopia:mulch"
+    }
+  },
+  "result": {
+    "item": "reptopia:mulch_block",
+    "count": 1
+  }
+}

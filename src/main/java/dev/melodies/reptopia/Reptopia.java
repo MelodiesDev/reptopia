@@ -1,5 +1,7 @@
 package dev.melodies.reptopia;
 
+import dev.melodies.reptopia.block.ModBlocks;
+import dev.melodies.reptopia.item.ModItemGroups;
 import dev.melodies.reptopia.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -12,7 +14,11 @@ public class Reptopia implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+
+		ModItemGroups.registerItemGroups();
+
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 
 
 		LOGGER.info("Hello Fabric world!");
