@@ -14,11 +14,22 @@
   "item.reptopia.calcium_powder": "Calcium Powder",
   "item.reptopia.mulch": "Mulch",
   "item.reptopia.mortar_and_pestle": "Mortar & Pestle",
+  "item.reptopia.raw_reptonium": "Raw Reptonium",
+  "item.reptopia.reptonium_ingot": "Reptonium Ingot",
+  "item.reptopia.reptonium_nugget": "Reptonium Nugget",
+  "item.reptopia.raw_reptillium": "Raw Reptillium",
+  "item.reptopia.reptillium_ingot": "Reptillium Ingot",
+  "item.reptopia.reptillium_nugget": "Reptillium Nugget",
+
   "item.reptopia.lizard_lure": "Lizard Lure",
   "tooltip.reptopia.lizard_lure.tooltip": "Entices the nearby lizards to the lure.",
 
   "block.reptopia.mulch_block": "Mulch Block",
   "block.reptopia.hardened_mulch_block": "Hardened Mulch Block",
+
+  "block.reptopia.reptonium_ore": "Reptonium Ore",
+  "block.reptopia.reptillium_ore": "Reptillium Ore",
+
 
   "itemgroup.mulch": "Mulch Group"
 }

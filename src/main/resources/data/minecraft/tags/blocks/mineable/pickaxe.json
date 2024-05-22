@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
-    "reptopia:hardened_mulch_block"
+    "reptopia:hardened_mulch_block",
+    "reptopia:reptonium_ore",
+    "reptopia:reptillium_ore"
   ]
 }

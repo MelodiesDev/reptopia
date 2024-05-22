@@ -28,6 +28,14 @@ public class ModItems {
     public static final Item CALCIUM_POWDER = registerItem("calcium_powder", new Item(new FabricItemSettings()));
     public static final Item MULCH = registerItem("mulch", new Item(new FabricItemSettings()));
 
+    public static final Item RAW_REPTONIUM = registerItem("raw_reptonium", new Item(new FabricItemSettings()));
+    public static final Item REPTONIUM_INGOT = registerItem("reptonium_ingot", new Item(new FabricItemSettings()));
+    public static final Item REPTONIUM_NUGGET = registerItem("reptonium_nugget", new Item(new FabricItemSettings()));
+
+    public static final Item RAW_REPTILLIUM = registerItem("raw_reptillium", new Item(new FabricItemSettings()));
+    public static final Item REPTILLIUM_INGOT = registerItem("reptillium_ingot", new Item(new FabricItemSettings()));
+    public static final Item REPTILLIUM_NUGGET = registerItem("reptillium_nugget", new Item(new FabricItemSettings()));
+
     public static final Item LIZARD_LURE = registerItem("lizard_lure", new LizardLureItem(new FabricItemSettings()));
 
     private static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries) {
@@ -35,6 +43,12 @@ public class ModItems {
         entries.add(REPTOPIA_BOOK);
         entries.add(CALCIUM_POWDER);
         entries.add(MULCH);
+        entries.add(RAW_REPTONIUM);
+        entries.add(REPTONIUM_INGOT);
+        entries.add(REPTONIUM_NUGGET);
+        entries.add(RAW_REPTILLIUM);
+        entries.add(REPTILLIUM_INGOT);
+        entries.add(REPTILLIUM_NUGGET);
     }
 
     private static void addItemsToFoodTabItemGroup(FabricItemGroupEntries entries) {

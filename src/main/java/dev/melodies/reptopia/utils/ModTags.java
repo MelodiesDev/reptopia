@@ -14,6 +14,7 @@ public class ModTags {
 
         private static TagKey<Block> createTag(String name) {
             return TagKey.of(RegistryKeys.BLOCK, new Identifier(Reptopia.MOD_ID, name));
+
         }
     }
     public static class Items {

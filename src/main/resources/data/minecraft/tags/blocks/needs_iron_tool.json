@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-
+    "reptopia:reptonium_ore",
+    "reptopia:reptillium_ore"
     ]
 }
